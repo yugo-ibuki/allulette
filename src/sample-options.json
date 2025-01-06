@@ -1,0 +1,27 @@
+[
+  {
+    "name": "ラーメン",
+    "weight": 1.0,
+    "enabled": true
+  },
+  {
+    "name": "うどん",
+    "weight": 1.5,
+    "enabled": true
+  },
+  {
+    "name": "そば",
+    "weight": 1.2,
+    "enabled": true
+  },
+  {
+    "name": "パスタ",
+    "weight": 0.8,
+    "enabled": true
+  },
+  {
+    "name": "カレー",
+    "weight": 2.0,
+    "enabled": true
+  }
+] 
